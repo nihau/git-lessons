@@ -1,5 +1,6 @@
 char foo(int x)
 {
+	//comment
 	if (x == 2) {
 		return '2';
 	}
